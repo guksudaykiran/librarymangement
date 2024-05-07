@@ -1,2 +1,1 @@
-# librarymangement
-Library management
+ C++ console application designed to efficiently manage library resources, including books and students. It facilitates tasks like adding, searching, editing, and deleting book records. Additionally, it allows for functionalities such as issuing books to members, tracking borrowed books, and handling returns.
